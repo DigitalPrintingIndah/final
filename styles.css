@@ -499,6 +499,7 @@ ul {
   background: linear-gradient(135deg, #FF8C00, #F97316);
   background-clip: text;
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
   white-space: nowrap; /* Prevent wrapping */
 }
@@ -1577,4 +1578,3 @@ ul {
     box-shadow: 0 0 0 rgba(37, 99, 235, 0.5);
   }
 }
-
